@@ -1,0 +1,15 @@
+{
+  "name": "@viper/rate-shield",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/basic.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.6.7",
+    "supertest": "^6.3.3"
+  },
+  "keywords": ["rate-limiter", "ddos", "express", "middleware"],
+  "license": "MIT"
+}
