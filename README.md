@@ -18,5 +18,5 @@
 ## Installation
 
 ```bash
-npm info @viper_droid/rate-shield
+npm install @viper_droid/rate-shield
 
