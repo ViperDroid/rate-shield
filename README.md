@@ -18,4 +18,5 @@
 ## Installation
 
 ```bash
-npm install @viper/rate-shield
+[![npm version](https://img.shields.io/npm/v/@viper_droid/rate-shield.svg)](https://www.npmjs.com/package/@viper_droid/rate-shield)
+
