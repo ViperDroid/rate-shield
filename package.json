@@ -1,6 +1,6 @@
 {
   "name": "@viper_droid/rate-shield",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight Express rate limiter to stop DDoS or abuse.",
   "main": "src/index.js",
   "scripts": {
