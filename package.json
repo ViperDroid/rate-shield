@@ -1,15 +1,24 @@
 {
-  "name": "@viper/rate-shield",
+  "name": "@viper_droid/rate-shield",
   "version": "0.1.0",
+  "description": "Lightweight Express rate limiter to stop DDoS or abuse.",
   "main": "src/index.js",
   "scripts": {
     "test": "node tests/basic.test.js"
   },
-  "dependencies": {
-    "express": "^4.18.2",
-    "redis": "^4.6.7",
-    "supertest": "^6.3.3"
+  "keywords": [
+    "rate-limit",
+    "express",
+    "ddos",
+    "middleware"
+  ],
+  "author": "Viper Droid",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ViperDroid/rate-shield"
   },
-  "keywords": ["rate-limiter", "ddos", "express", "middleware"],
-  "license": "MIT"
+  "dependencies": {
+    "@viper_droid/rate-shield": "^0.1.0"
+  }
 }
